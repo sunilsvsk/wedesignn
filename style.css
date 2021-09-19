@@ -1,0 +1,278 @@
+*{
+	
+	box-sizing:border-box;
+	font-family: 'Playfair Display', serif;
+	
+}	
+
+
+.logo{
+	
+	
+}
+
+.cname{
+
+  /* border-style:solid; */ 
+   text-align:center;
+   height:135px;
+   padding-top:40px;
+   font-size:45px;
+   font-weight:bold; 
+   background-color:#F8D135;
+   color:red;
+   
+} 
+
+.menu{
+
+/* border-style:solid;  */
+height:50px;
+text-align:center;
+padding-top:15px;
+font-size:20px;
+font-weight:bold;
+background-color:#F8D135;
+
+}	
+
+.menu a{
+	
+	text-decoration:none;
+	color:red;
+	display:block;
+	
+	
+}
+
+.royalphoto{
+	
+	margin-top:15px;
+}
+/* About us */
+
+.photo{
+	margin-top:2px;
+}
+
+.section{
+	
+	/* border-style:solid; */
+	height:50px;
+	text-align:center;
+	padding-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	background-color:#F8D135;
+	color:red;
+	margin-top:10px;
+	
+}
+
+.about{
+	
+	margin-top:10px;
+	text-align:justify;
+}
+
+.service{
+	margin-top:20px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	transition-duration:3s;
+	text-align:justify;
+}
+
+.service:hover{
+	
+	transform:scale(1.1);
+}
+
+.contact{
+	
+	margin-top:10px;
+}
+
+.contact a{
+	text-decoration:none;
+	display:block;
+}
+
+
+  /* index  */
+#whatsapp{
+	position:fixed;
+	right:50px;
+	bottom:40px;
+}
+
+#mobile{
+	position:fixed;
+	right:50px;
+	bottom:150px;
+}
+
+
+.footermain{
+	background-color:black;
+	color:yellow;
+	margin-top:5px;
+	padding:10px;
+	height:300px;
+}
+
+.footermain3 a{
+	text-decoration:none;
+	display:block;
+}
+
+
+
+
+.show{
+	margin-top:15px;
+	
+}
+       /* about us project*/
+	
+.project{
+	/*border-style:solid;*/
+	text-align:center;
+	padding-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	background-color:#F8D135;
+	color:red;
+	height:50px;
+	
+}
+
+
+.project1{
+	
+	margin-top:10px;
+	text-align:justify;
+}
+
+#youtube{
+	position:fixed;
+	right:55px;
+	bottom:250px;
+	
+}
+
+.footer{
+	background-color:black;
+	color:yellow;
+	margin-top:5px;
+	padding:10px;
+}
+
+
+.project2{
+	margin-top:15px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	transition-duration:3s;
+	margin-bottom:10px;
+	text-align:justify;
+}
+
+.project2:hover{
+	
+	transform:scale(1.1);
+}
+
+
+.project4{
+	margin-top:15px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	transition-duration:3s;
+	margin-bottom:10px;
+	text-align:justify;
+
+}
+	
+.project4:hover{
+	
+	transform:scale(1.1);
+}
+
+.project3{
+	margin-top:15px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	margin-bottom:10px;
+	text-align:justify;
+}
+
+.project5{
+	margin-top:15px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	margin-bottom:7px;
+	transition-duration:3s;
+}
+
+.project5:hover{
+	
+	transform:scale(1.1);
+}
+
+
+
+.footer2{
+	background-color:black;
+	color:yellow;
+	margin-top:5px;
+	
+}
+
+.footer3{
+	background-color:black;
+	color:yellow;
+	margin-top:5px;
+}
+
+.footer3 a{
+	text-decoration:none;
+}
+
+.banner{
+	
+	margin-top:10px;
+}
+
+.contactlist{
+	margin-top:25px;
+	color:red;
+	margin-bottom:25px;
+}
+
+.contactlist a{
+   text-decoration:none;
+}
+
+
+element.style {
+}
+.about1{
+    border-radius: 5px;
+    position: relative;
+    padding:0 15px;
+    box-shadow: 0px 0px 25px #999;
+    border: 1px solid #cecece;
+    overflow: hidden;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+.aboutcntnt {
+    padding: 0px;
+    position: relative;
+    
+}
+
+h1{
+ color:red;
+}
